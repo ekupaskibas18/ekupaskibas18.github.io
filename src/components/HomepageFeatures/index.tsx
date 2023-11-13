@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Sonnets',
     link: 'blogs/sonnets',
-    image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/pure_love_ay8a.svg',
+    image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/wedding_re_66hj.svg',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Haikus',
     link: 'blogs/haikus',
-    image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/Bibliophile_re_xarc.svg',
+    image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/In_love_6sq2.svg',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
