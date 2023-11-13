@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[2184],{4811:a=>{a.exports=JSON.parse('{"label":"AABB","permalink":"/blogs/sonnets/tags/aabb","allTagsPath":"/blogs/sonnets/tags","count":6}')}}]);
