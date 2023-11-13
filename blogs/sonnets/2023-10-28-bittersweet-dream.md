@@ -13,8 +13,8 @@ A fool deceived, to be convinced 'tis heaven<br/>
 Blinding me of a prize, fate has forbidden:<br/>
 The warmth felt in your hand, softer as it grips<br/>
 The sunrise in your smile, and delicate lips.<br/>
-Such fragile qualities, I refuse to touch.<br/>
-Gratified by these though I covet so much.<br/>
+Such fragile qualities, I refuse to touch,<br/>
+Content by sweet thoughts, though I desire so much.<br/>
 'Till truth itself reveals, and the curtains close,<br/>
 Bleed you my first thought when reality rose.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; If I dream another, and still find you there<br/>
