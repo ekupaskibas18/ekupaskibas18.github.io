@@ -273,9 +273,9 @@ const config = {
           //   label: 'Components',     // navbar title
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/blogs/sonnets', label: 'Sonnets', position: 'left'},
-          {to: '/blogs/haikus', label: 'Haikus', position: 'left'},
-          {to: '/blogs/love-letters', label: 'Love Letters', position: 'left'},
+          { to: '/blogs/sonnets', label: 'Sonnets', position: 'left' },
+          { to: '/blogs/haikus', label: 'Haikus', position: 'left' },
+          { to: '/blogs/love-letters', label: 'Love Letters', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -289,18 +289,9 @@ const config = {
           {
             title: 'Poetry',
             items: [
-              {
-                label: 'Sonnets',
-                to: '/blogs/sonnets',
-              },
-              {
-                label: 'Love Letters',
-                to: '/blogs/love-letters',
-              },
-              {
-                label: 'Haikus',
-                to: '/blogs/haikus',
-              },
+              { label: 'Sonnets', to: '/blogs/sonnets' },
+              { label: 'Haikus', to: '/blogs/haikus' },
+              { label: 'Love Letters', to: '/blogs/love-letters' },
             ],
           },
           // {
