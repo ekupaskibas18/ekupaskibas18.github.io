@@ -2,6 +2,7 @@
 slug: missing-you-already
 title: Missing You Already
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet]
 ---
 

@@ -2,6 +2,7 @@
 slug: bittersweet-dream
 title: Bittersweet Dream
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 

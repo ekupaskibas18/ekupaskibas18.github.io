@@ -2,6 +2,7 @@
 slug: elusive-one
 title: Elusive One
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 

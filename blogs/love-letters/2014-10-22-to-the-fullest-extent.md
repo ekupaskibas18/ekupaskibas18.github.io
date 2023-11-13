@@ -2,6 +2,7 @@
 slug: to-the-fullest-extent
 title: To the Fullest Extent
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, love letter]
 tags: [love-letter]
 ---
 

@@ -2,6 +2,7 @@
 slug: nothing-more-beautiful
 title: Nothing More Beautiful
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 

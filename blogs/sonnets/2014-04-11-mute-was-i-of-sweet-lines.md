@@ -2,6 +2,7 @@
 slug: mute-was-i-of-sweet-lines
 title: Mute Was I of Sweet Lines
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 

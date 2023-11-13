@@ -2,6 +2,7 @@
 slug: an-unsent-love-letter
 title: An Unsent Love Letter
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, love letter]
 tags: [love-letter]
 ---
 

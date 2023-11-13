@@ -2,6 +2,7 @@
 slug: absolution
 title: Absolution
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, love letter]
 tags: [love-letter]
 ---
 

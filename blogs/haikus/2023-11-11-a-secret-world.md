@@ -2,6 +2,7 @@
 slug: a-secret-world
 title: A Secret World
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 

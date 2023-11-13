@@ -2,6 +2,7 @@
 slug: your-loveliness
 title: Your Loveliness
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 

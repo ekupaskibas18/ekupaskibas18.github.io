@@ -2,6 +2,7 @@
 slug: find-yourself
 title: Find Yourself
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 

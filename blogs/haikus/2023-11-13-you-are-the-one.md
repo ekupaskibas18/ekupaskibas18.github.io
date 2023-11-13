@@ -2,6 +2,7 @@
 slug: you-are-the-one
 title: You Are The One
 authors: [randelltuazon]
+keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 
