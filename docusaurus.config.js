@@ -106,6 +106,7 @@ const config = {
         path: './blogs/sonnets',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'Sonnets',
+        postsPerPage: 'ALL',
       },
     ],
     [
@@ -126,6 +127,7 @@ const config = {
         path: './blogs/love-letters',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'Love Letters',
+        postsPerPage: 'ALL',
       },
     ],
     [
@@ -146,6 +148,7 @@ const config = {
         path: './blogs/haikus',
         blogSidebarCount: 'ALL',
         blogSidebarTitle: 'Haikus',
+        postsPerPage: 'ALL',
       },
     ],
   ],
