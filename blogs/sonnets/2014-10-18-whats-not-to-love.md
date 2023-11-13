@@ -17,5 +17,5 @@ But I do not love you because of reason,<br/>
 Nor what attends presently at my vision,<br/>
 For my heart does not think, nor does mind to see<br/>
 I'll love you still, be certain or mystery.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; But if you still protest, I would not say more,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Let me just confirm my love for keeps therefore.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *But if you still protest, I would not say more,*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *Let me just confirm my love for keeps therefore.*<br/>

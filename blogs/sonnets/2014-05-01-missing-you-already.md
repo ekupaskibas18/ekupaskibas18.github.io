@@ -15,5 +15,5 @@ By sweet thoughts of you, there's a pinch in the heart,<br/>
 Of the certain downfall, that my heart so neverminds.<br/>
 I'll love you still even when you don't<br/>
 And even if I get lost, you will always be home.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;  Soon, all of this will be a bittersweet memory,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;  You're still here, but I'm missing you already<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *Soon, all of this will be a bittersweet memory,*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *You're still here, but I'm missing you already.*<br/>

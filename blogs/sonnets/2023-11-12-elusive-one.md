@@ -17,5 +17,5 @@ And unto my excitements, my senses wake,<br/>
 Out of overmuch preparations to make<br/>
 Than be well-rested, had gotten weary instead<br/>
 Rehearsing sweet thoughts bubbling over my head.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; But doubt this may and never bound to happen,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; That I tire depend wishing things to Heaven.
+&nbsp;&nbsp;&nbsp;&nbsp; *But doubt this may and never bound to happen,*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *That I tire depend wishing things to Heaven.*<br/>

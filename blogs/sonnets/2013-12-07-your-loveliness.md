@@ -17,5 +17,5 @@ Through weekends' boredom I myself come weary,<br/>
 A day none of you is only misery.<br/>
 Most treasured You, never had but neither lost.<br/>
 Beknown this lifetime we'll never come across.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Shall fate robs this, I can no longer accept.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; For it's all I have of you and ever kept.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *Shall fate robs this, I can no longer accept.*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *For it's all I have of you and ever kept.*<br/>

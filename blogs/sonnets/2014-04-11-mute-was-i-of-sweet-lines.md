@@ -17,5 +17,5 @@ All the beauty safe contained in those graces,<br/>
 But mute was I of any sweet lines and phrases.<br/>
 Knownst you barely, doubt me if it's all true,<br/>
 It is but madness, I cannot say I love you.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; And torn with regrets, what ifs and whatnot,<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; Would I've been any better to have earned your heart?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *And torn with regrets, what ifs and whatnot,*<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; *Would I've been any better to have earned your heart?*<br/>
