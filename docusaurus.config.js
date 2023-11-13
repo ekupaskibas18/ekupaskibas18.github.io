@@ -104,6 +104,8 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './blogs/sonnets',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Sonnets',
       },
     ],
     [
@@ -122,6 +124,8 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './blogs/love-letters',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Love Letters',
       },
     ],
     [
@@ -140,6 +144,8 @@ const config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './blogs/haikus',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Haikus',
       },
     ],
   ],
