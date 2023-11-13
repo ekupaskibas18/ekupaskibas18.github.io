@@ -27,7 +27,7 @@ export default function Home(): JSX.Element {
               Start Reading 📖
             </Link>
           </div>
-          <div className="mt-4">Currently <strong>v{PKG.version}</strong></div>
+          <div className="mt-4 hidden">Currently <strong>v{PKG.version}</strong></div>
         </div>
       </header>
 
