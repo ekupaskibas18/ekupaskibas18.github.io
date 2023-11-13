@@ -276,11 +276,11 @@ const config = {
           {to: '/blogs/sonnets', label: 'Sonnets', position: 'left'},
           {to: '/blogs/love-letters', label: 'Love Letters', position: 'left'},
           {to: '/blogs/haikus', label: 'Haikus', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
