@@ -8,7 +8,7 @@ const remarkAttr = require('remark-attr');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '@randelltuazon',
-  tagline: `Hello, I'm Randell. I code for a living, but I write poetry for a loving.`,
+  tagline: `Hello, I am Randell. One day, I'll quit coding, and start writing again.`,
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
