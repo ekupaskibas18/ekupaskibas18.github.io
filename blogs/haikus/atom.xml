@@ -8,14 +8,14 @@
     <subtitle>@randelltuazon Blog</subtitle>
     <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[A Secret World]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/a-secret-world</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/a-secret-world"/>
+        <title type="html"><![CDATA[You Are The One]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</id>
+        <link href="https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one"/>
         <updated>2023-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a secret world,]]></summary>
-        <content type="html"><![CDATA[<p>In a secret world,<br>
-only you and I exist;<br>
-My sweetest escape.<br></p>]]></content>
+        <summary type="html"><![CDATA[Just one glance, you smiled;]]></summary>
+        <content type="html"><![CDATA[<p>Just one glance, you smiled;<br>
+An instant realization:<br>
+You are the one.<br></p>]]></content>
         <author>
             <name>Randell Tuazon</name>
             <uri>https://github.com/randelltuazon</uri>
@@ -24,14 +24,14 @@ My sweetest escape.<br></p>]]></content>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Are The One]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one"/>
-        <updated>2023-11-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just one glance, you smiled;]]></summary>
-        <content type="html"><![CDATA[<p>Just one glance, you smiled;<br>
-An instant realization:<br>
-You are the one.<br></p>]]></content>
+        <title type="html"><![CDATA[A Secret World]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/haikus/a-secret-world</id>
+        <link href="https://ekupaskibas18.github.io/blogs/haikus/a-secret-world"/>
+        <updated>2023-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In a secret world,]]></summary>
+        <content type="html"><![CDATA[<p>In a secret world,<br>
+only you and I exist;<br>
+My sweetest escape.<br></p>]]></content>
         <author>
             <name>Randell Tuazon</name>
             <uri>https://github.com/randelltuazon</uri>
