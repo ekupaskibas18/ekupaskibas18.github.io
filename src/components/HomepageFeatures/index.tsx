@@ -1,9 +1,11 @@
 import React from 'react';
+import Link from '@docusaurus/Link';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
+  link: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
@@ -11,6 +13,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Sonnets',
+    link: 'blogs/sonnets',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -21,6 +24,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Love Letters',
+    link: 'blogs/love-letters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -31,6 +35,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Haikus',
+    link: 'blogs/haikus',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -41,9 +46,9 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, link, Svg, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <Link to={link} className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -51,7 +56,7 @@ function Feature({title, Svg, description}: FeatureItem) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
-    </div>
+    </Link>
   );
 }
 
