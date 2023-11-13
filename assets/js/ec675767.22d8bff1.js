@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[6338],{6463:e=>{e.exports=JSON.parse('[{"label":"love-letter","permalink":"/blogs/love-letters/tags/love-letter","count":4}]')}}]);
