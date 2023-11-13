@@ -325,7 +325,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}, Poetry by @randelltuazon.`,
+        copyright: `Copyright © ${new Date().getFullYear()}, by @randelltuazon with 💔`,
       },
       prism: {
         theme: lightCodeTheme,
