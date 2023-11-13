@@ -7,7 +7,7 @@ tags: [poetry, sonnet]
 
 When in God's time I with you be introduced,<br/>
 I'll urge perfection for such a perfect muse.<br/>
-I'd cherry-pick the sweetest words, by fair chance<br/>
+I'll cherry-pick the sweetest words, by fair chance<br/>
 Align our first talk in sweet deliverance.<br/>
 Yet I fear to try too much and please you none,<br/>
 And be lost forever, my elusive one.<br/>
