@@ -274,8 +274,8 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blogs/sonnets', label: 'Sonnets', position: 'left'},
-          {to: '/blogs/love-letters', label: 'Love Letters', position: 'left'},
           {to: '/blogs/haikus', label: 'Haikus', position: 'left'},
+          {to: '/blogs/love-letters', label: 'Love Letters', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
