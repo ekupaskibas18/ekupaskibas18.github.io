@@ -1,0 +1,18 @@
+---
+sidebar_position: 2
+sidebar_label: 'Datatable'
+---
+import BrowserOnly from '@docusaurus/BrowserOnly';
+
+# Datatable {class="text-3xl font-semibold mt-4 !mb-4"}
+
+Documentation and examples for Datatable.
+
+## Overview {class="text-xl font-semibold !mb-4"}
+
+<BrowserOnly fallback={<div>Loading...</div>}>
+  {() => {
+    const Overview = require('./Overview').default;
+    return <Overview />;
+  }}
+</BrowserOnly>

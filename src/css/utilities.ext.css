@@ -1,0 +1,20 @@
+@layer utilities {
+  .visible {
+    visibility: visible;
+  }
+  .invisible {
+    visibility: hidden;
+  }
+}
+
+@layer utilities {
+  .page-static {
+    @apply static z-auto overflow-visible;
+    contain: none;
+  }
+
+  .page-overlay {
+    @apply absolute z-1040 overflow-visible;
+    contain: none;
+  }
+}

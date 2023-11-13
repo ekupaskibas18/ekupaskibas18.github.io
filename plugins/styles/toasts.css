@@ -1,0 +1,19 @@
+@layer components {
+  .toast {
+    @apply max-w-sm text-sm pointer-events-auto overflow-hidden rounded shadow;
+    @apply bg-white bg-clip-padding bg-opacity-75 border border-black border-opacity-10;
+    @apply backdrop-filter;
+  }
+
+  .toast:not(.showing):not(.show) {
+    @apply opacity-0;
+  }
+
+  .toast.hide {
+    @apply hidden;
+  }
+
+  .toast:not(:last-child) {
+    @apply mb-3;
+  }
+}

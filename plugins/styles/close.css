@@ -1,0 +1,17 @@
+@layer components {
+  .btn-close {
+    @apply text-2xl font-bold leading-none text-black opacity-50;
+    text-shadow: 0 1px 0 #fff;
+  }
+  .btn-close:hover {
+    @apply text-black no-underline;
+  }
+  .btn-close:hover,
+  .btn-close:focus {
+    @apply opacity-75;
+  }
+  .btn-close:disabled,
+  .btn-close.disabled {
+    @apply pointer-events-none;
+  }
+}
