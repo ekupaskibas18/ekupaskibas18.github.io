@@ -49,7 +49,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({title, link, image, Svg, description}: FeatureItem) {
   return (
-    <Link to={link} className={clsx('col col--4 mb-6')}>
+    <Link to={link} className={clsx('col col--4 mb-8 md:mb-2')}>
       <div className="text--center mb-6">
         <img
           src={image}
@@ -70,7 +70,7 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className="row my-6">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
