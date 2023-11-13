@@ -2,7 +2,7 @@
 slug: whats-not-to-love
 title: What's Not to Love?
 authors: [randelltuazon]
-tags: [poetry, sonnet]
+tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 
 If your concerns suspect of why I'm in love,<br/>

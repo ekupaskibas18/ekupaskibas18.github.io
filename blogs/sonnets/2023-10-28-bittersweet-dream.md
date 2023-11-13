@@ -2,7 +2,7 @@
 slug: bittersweet-dream
 title: Bittersweet Dream
 authors: [randelltuazon]
-tags: [poetry, sonnet]
+tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 
 Let not my dream comprise you and be it sweet<br/>

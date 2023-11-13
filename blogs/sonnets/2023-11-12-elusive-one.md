@@ -2,7 +2,7 @@
 slug: elusive-one
 title: Elusive One
 authors: [randelltuazon]
-tags: [poetry, sonnet]
+tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 
 When in God's time I with you be introduced,<br/>

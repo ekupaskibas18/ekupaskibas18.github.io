@@ -2,7 +2,7 @@
 slug: your-loveliness
 title: Your Loveliness
 authors: [randelltuazon]
-tags: [poetry, sonnet]
+tags: [poetry, sonnet, 11-syllables, AABB]
 ---
 
 Lovely is the morning, you are lovelier...<br/>
