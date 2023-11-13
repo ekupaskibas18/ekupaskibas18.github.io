@@ -9,7 +9,7 @@ Let not my dream comprise you and be it sweet<br/>
 When my desire hungers more throughout of sleep<br/>
 Whilst stars write plots of perfect Love above all<br/>
 By when you take and play my lovely wife's role.<br/>
-A fool deceived, to be convinced 'Tis heaven<br/>
+A fool deceived, to be convinced 'tis heaven<br/>
 Blinding me of a prize, fate has forbidden:<br/>
 The warmth felt in your hand, softer as it grips<br/>
 The sunrise in your smile, and delicate lips.<br/>
