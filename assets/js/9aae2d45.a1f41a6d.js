@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[5642],{8676:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"An Unsent Love Letter","permalink":"/blogs/love-letters/an-unsent-love-letter"}]}')}}]);

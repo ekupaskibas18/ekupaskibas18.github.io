@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[4581],{6525:(e,a,l)=>{l.r(a),l.d(a,{default:()=>t});var n=l(9496);function t(){return n.createElement("main",null,n.createElement("h1",null,"My React page"),n.createElement("p",null,"This is a React page"))}}}]);

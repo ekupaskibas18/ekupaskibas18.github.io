@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[9574],{8564:a=>{a.exports=JSON.parse('{"label":"poetry","permalink":"/blog/tags/poetry","allTagsPath":"/blog/tags","count":1}')}}]);
