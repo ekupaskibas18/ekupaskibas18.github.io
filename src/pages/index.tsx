@@ -24,7 +24,7 @@ export default function Home(): JSX.Element {
               className="btn btn-lg"
               to="blogs/sonnets"
             >
-              Get Started ⏱️
+              Start Reading 📖
             </Link>
           </div>
           <div className="mt-4">Currently <strong>v{PKG.version}</strong></div>
