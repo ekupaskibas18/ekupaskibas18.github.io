@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[1487],{4214:e=>{e.exports=JSON.parse('{"permalink":"/blogs/haikus/tags/poetry","page":1,"postsPerPage":8,"totalPages":1,"totalCount":8,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
