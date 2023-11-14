@@ -10,7 +10,7 @@ tags: [draft, sonnet]
 
 When I meet you, what should I say? <br/>
 Should I tell you how love you are? <br/>
-For which yyou might have already heard countless of times <br/>
+For which you might have already heard countless of times <br/>
 From men you thought to be all the same. <br/>
 So... no. I want to tell you something different <br/>
 Sweetest words and yet without losing truth. <br/>
