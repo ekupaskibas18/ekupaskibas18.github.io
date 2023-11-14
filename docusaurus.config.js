@@ -151,6 +151,27 @@ const config = {
         postsPerPage: 'ALL',
       },
     ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'drafts-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: '/blogs/drafts',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './blogs/drafts',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Drafts & Thoughts',
+        postsPerPage: 'ALL',
+      },
+    ],
   ],
 
   presets: [
@@ -279,6 +300,7 @@ const config = {
           { to: '/blogs/sonnets', label: 'Sonnets', position: 'left' },
           { to: '/blogs/haikus', label: 'Haikus', position: 'left' },
           { to: '/blogs/love-letters', label: 'Love Letters', position: 'left' },
+          { to: '/blogs/drafts', label: 'Drafts & Thoughts', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -295,6 +317,7 @@ const config = {
               { label: 'Sonnets', to: '/blogs/sonnets' },
               { label: 'Haikus', to: '/blogs/haikus' },
               { label: 'Love Letters', to: '/blogs/love-letters' },
+              { label: 'Drafts & Thoughts', to: '/blogs/drafts' },
             ],
           },
           // {

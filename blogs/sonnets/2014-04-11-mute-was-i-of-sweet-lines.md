@@ -3,7 +3,7 @@ slug: mute-was-i-of-sweet-lines
 title: Mute Was I of Sweet Lines
 authors: [randelltuazon]
 keywords: [randell tuazon, poetry, sonnet]
-tags: [poetry, sonnet, 11-syllables, AABB]
+tags: [poetry, sonnet, 11-syllables, aabb-ccdd-eeff-gg]
 ---
 
 None more so to say, swayed I in an instant<br/>
