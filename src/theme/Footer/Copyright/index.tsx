@@ -6,7 +6,7 @@ export default function FooterCopyright({copyright}: Props): JSX.Element {
   return (
     <div className="flex flex-wrap mt-8">
       <div
-        className="w-full lg:flex-1 flex justify-start items-end text-neutral-300"
+        className="w-full lg:flex-1 flex justify-start items-end text-neutral-400"
         // Developer provided the HTML, so assume it's safe.
         // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{__html: copyright}}
