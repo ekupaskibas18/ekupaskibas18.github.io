@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[9884],{3118:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"drafts-blog"}')}}]);
