@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[8929],{1161:a=>{a.exports=JSON.parse('[{"label":"draft","permalink":"/blogs/drafts/tags/draft","count":18},{"label":"haiku","permalink":"/blogs/drafts/tags/haiku","count":1},{"label":"sonnet","permalink":"/blogs/drafts/tags/sonnet","count":2}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[794],{6368:a=>{a.exports=JSON.parse('{"label":"haiku","permalink":"/blogs/drafts/tags/haiku","allTagsPath":"/blogs/drafts/tags","count":1}')}}]);
