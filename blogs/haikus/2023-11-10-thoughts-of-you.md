@@ -1,10 +1,11 @@
 ---
 slug: thoughts-of-you
-title: ''
+title: Thoughts of You
 authors: [randelltuazon]
-keywords: [randell tuazon, draft, haiku]
-tags: [draft, haiku]
+keywords: [randell tuazon, poetry, haiku]
+tags: [poetry, haiku]
 ---
+
 
 Thinking thoughts of you, <br/>
 I'm afraid I'll fall in love, <br/>
