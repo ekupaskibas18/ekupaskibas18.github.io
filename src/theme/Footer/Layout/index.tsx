@@ -19,7 +19,8 @@ export default function FooterLayout({
       <div className="container max-w-screen-2xl mx-auto px-6">
         <div className="flex flex-wrap mb-10">
           <div className="flex-initial flex justify-start items-end">
-            <h1 className="text-2xl font-brand font-bold mb-0 text-white">{siteConfig.title}</h1>
+            {/* @ts-ignore */}
+            <h2 className="text-xl font-brand font-bold mb-0 text-white">{siteConfig?.customFields?.email}</h2>
           </div>
           <div className="flex-1" />
         </div>

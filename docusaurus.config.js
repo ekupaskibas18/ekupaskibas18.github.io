@@ -338,6 +338,9 @@ const config = {
         ],
       },
     }),
+  customFields: {
+    email: 'iam@randelltuazon.com',
+  },
 };
 
 module.exports = config;
