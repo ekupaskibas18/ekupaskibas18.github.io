@@ -41,7 +41,18 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Unsent love letters. For your eyes only.
+        Unsent love letters, best kept unsent.
+      </>
+    ),
+  },
+  {
+    title: 'Drafts & Thoughts',
+    link: 'blogs/drafts',
+    image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/New_entries_re_cffr.svg',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        My personal wall of shame.
       </>
     ),
   },
@@ -49,8 +60,8 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({title, link, image, Svg, description}: FeatureItem) {
   return (
-    <Link to={link} className={clsx('col col--4 mb-8 md:mb-2')}>
-      <div className="text--center mb-6">
+    <Link to={link} className={clsx('w-full md:w-6/12 lg:w-3/12 p-6 mb-8 md:mb-2')}>
+      <div className="text--center">
         <img
           src={image}
           alt={title}
@@ -70,7 +81,7 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row my-6">
+        <div className="flex flex-wrap my-6">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
