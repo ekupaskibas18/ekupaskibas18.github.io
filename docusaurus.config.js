@@ -168,7 +168,7 @@ const config = {
          */
         path: './blogs/drafts',
         blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Drafts & Thoughts',
+        blogSidebarTitle: 'Drafts & Thoughts (My Wall of Shame)',
         postsPerPage: 'ALL',
       },
     ],
