@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[7580],{4268:s=>{s.exports=JSON.parse('{"label":"sonnet","permalink":"/blogs/sonnets/tags/sonnet","allTagsPath":"/blogs/sonnets/tags","count":7,"unlisted":false}')}}]);

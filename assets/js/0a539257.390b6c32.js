@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[6098],{49:a=>{a.exports=JSON.parse('{"label":"aabb-ccdd-eeff-gg","permalink":"/blogs/sonnets/tags/aabb-ccdd-eeff-gg","allTagsPath":"/blogs/sonnets/tags","count":6}')}}]);
