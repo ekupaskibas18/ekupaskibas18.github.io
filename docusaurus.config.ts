@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import remarkAttr from 'remark-attr';
 
 const config: Config = {
-  title: '@randelltuazon',
+  title: 'Randell Tuazon',
   tagline: `One day, I'll quit coding, and start writing sonnets and songs again.`,
   favicon: 'img/favicon.ico',
 
@@ -262,11 +262,11 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     metadata: [
-      { name: 'keywords', content: 'Randell Tuazon, poetry, sonnets, love letters, haiku' },
+      { name: 'keywords', content: 'Randell Tuazon, randelltuazon, poetry, sonnets, love letters, haiku' },
     ],
     image: 'img/social-card.jpg',
     navbar: {
-      title: 'Randell Tuazon',
+      title: '@randelltuazon',
       logo: {
         alt: 'Randell Tuazon',
         src: 'img/logo.svg',
