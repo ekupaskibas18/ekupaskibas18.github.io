@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function FeatureBlockFooter({ children }): JSX.Element {
   return (
     <figcaption className="bg-gray-300 p-4">

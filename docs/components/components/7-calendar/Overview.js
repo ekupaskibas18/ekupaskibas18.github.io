@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import CodeBlock from '@theme/CodeBlock';
 import FeatureBlock from '@site/src/components/FeatureBlock';
 import { Calendar } from '@fullcalendar/core';

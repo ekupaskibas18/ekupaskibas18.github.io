@@ -1,4 +1,3 @@
-import React from 'react';
 import PKG from '@site/package.json';
 import type {Props} from '@theme/Footer/Copyright';
 

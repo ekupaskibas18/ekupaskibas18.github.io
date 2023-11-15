@@ -1,38 +1,8 @@
-# randelltuazon
+# Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-
-## Installation
-```
-@import 'avgui/plugins/styles/index.css';
-```
-
-## Safelisted classes
-
-Add these classes to your safelist options:
-
-```
-bs-popover-top
-bs-popover-end
-bs-popover-bottom
-bs-popover-start
-bs-popover-auto
-
-bs-tooltip-top
-bs-tooltip-end
-bs-tooltip-bottom
-bs-tooltip-start
-bs-tooltip-auto
-
-collapsing
-
-modal-backdrop
-modal-open
-modal-scrollbar-measure
-```
-
-### Docs Installation
+### Installation
 
 ```
 $ yarn

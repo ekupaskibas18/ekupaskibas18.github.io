@@ -1,6 +1,6 @@
-import React from 'react';
-import Link from '@docusaurus/Link';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Haikus',
     link: 'blogs/haikus',
     image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/In_love_6sq2.svg',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Sweetest thoughts in a few words.
@@ -38,7 +38,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Love Letters',
     link: 'blogs/love-letters',
     image: 'https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/heartbroken_cble.svg',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Unsent love letters, best kept unsent.
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
 function Feature({title, link, image, Svg, description}: FeatureItem) {
   return (
     <Link to={link} className={clsx('w-full md:w-6/12 lg:w-3/12 p-6 mb-8 md:mb-2')}>
-      <div className="text--center">
+      <div className="text--center mb-4">
         <img
           src={image}
           alt={title}
@@ -70,10 +70,10 @@ function Feature({title, link, image, Svg, description}: FeatureItem) {
         {/* <Svg className={styles.featureSvg} role="img" /> */}
       </div>
       <div className="text--center padding-horiz--md">
-        <h3 className="font-semibold text-xl mb-4">{title}</h3>
+        <Heading as="h3" className="font-semibold text-xl mb-4">{title}</Heading>
         <p>{description}</p>
       </div>
-    </Link>
+      </Link>
   );
 }
 

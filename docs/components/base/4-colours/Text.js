@@ -1,4 +1,3 @@
-import React from 'react';
 import CodeBlock from '@theme/CodeBlock';
 import FeatureBlock from '@site/src/components/FeatureBlock';
 import colors from 'tailwindcss/colors';

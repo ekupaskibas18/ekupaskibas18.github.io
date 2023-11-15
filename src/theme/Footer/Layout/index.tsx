@@ -1,4 +1,3 @@
-import React from 'react';
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import type {Props} from '@theme/Footer/Layout';
@@ -20,7 +19,7 @@ export default function FooterLayout({
         <div className="flex flex-wrap mb-10">
           <div className="flex-initial flex justify-start items-end">
             {/* @ts-ignore */}
-            <h2 className="text-xl font-brand font-bold mb-0 text-white">{siteConfig?.customFields?.email}</h2>
+            <h2 className="text-2xl font-bold mb-0 text-white">{siteConfig?.customFields?.email}</h2>
           </div>
           <div className="flex-1" />
         </div>

@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function FeatureBlockBody({ children }): JSX.Element {
   return (
     <figcaption className="p-4 py-8">
