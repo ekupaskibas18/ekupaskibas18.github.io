@@ -5,7 +5,7 @@ import remarkAttr from 'remark-attr';
 
 const config: Config = {
   title: 'Randell Tuazon',
-  tagline: `One day, I'll quit coding, and start writing sonnets and songs again.`,
+  tagline: `Collection of my sonnets, haikus, love songs and love letters.`,
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
