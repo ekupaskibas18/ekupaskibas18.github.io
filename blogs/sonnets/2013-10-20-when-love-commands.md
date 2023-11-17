@@ -8,7 +8,7 @@ tags: [poetry, sonnet, 11-syllables, aabb-ccdd-eeff-gg]
 
 When love commands oneself, and could not be tamed, <br/>
 And rage like wildfire, burning love one proclaimed, <br/>
-That spreads outrageous and unmindful risker, <br/>
+That spreads outrageously, an unmindful risker, <br/>
 To substance it can crawl and burn together. <br/>
 By where it stays perish, what none can uphold, <br/>
 Its span is as long only as it can hold. <br/>
