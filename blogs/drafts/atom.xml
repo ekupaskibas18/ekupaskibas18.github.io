@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ekupaskibas18.github.io/blogs/drafts</id>
     <title>Randell Tuazon Blog</title>
-    <updated>2023-11-14T00:00:00.000Z</updated>
+    <updated>2023-11-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ekupaskibas18.github.io/blogs/drafts"/>
     <subtitle>Randell Tuazon Blog</subtitle>
     <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/drafts/what-the-hell</id>
+        <link href="https://ekupaskibas18.github.io/blogs/drafts/what-the-hell"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is still one question lingering in my head I dare not answered.]]></summary>
+        <content type="html"><![CDATA[<p>There is still one question lingering in my head I dare not answered. <br>
+Why do I fancy you? Oh, what the hell. <br></p>]]></content>
+        <author>
+            <name>Randell Tuazon</name>
+            <uri>https://www.instagram.com/randelltuazon</uri>
+        </author>
+        <category label="draft" term="draft"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://ekupaskibas18.github.io/blogs/drafts/balls</id>
@@ -330,20 +344,6 @@ That's how I knew it's just a fucking dream, but still. <br>
 For you, I'll always be dreamin'. <br>
 Because I am a dreamer, and you are mine. <br>
 Come again, and don't ever wake me up. <br></p>]]></content>
-        <author>
-            <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon</uri>
-        </author>
-        <category label="draft" term="draft"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/drafts/such-a-shame</id>
-        <link href="https://ekupaskibas18.github.io/blogs/drafts/such-a-shame"/>
-        <updated>2014-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's such a shame the world will never know]]></summary>
-        <content type="html"><![CDATA[<p>It's such a shame the world will never know <br>
-How I love you deeply in the soul. <br></p>]]></content>
         <author>
             <name>Randell Tuazon</name>
             <uri>https://www.instagram.com/randelltuazon</uri>

@@ -4,10 +4,19 @@
         <title>Randell Tuazon Blog</title>
         <link>https://ekupaskibas18.github.io/blogs/drafts</link>
         <description>Randell Tuazon Blog</description>
-        <lastBuildDate>Tue, 14 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <link>https://ekupaskibas18.github.io/blogs/drafts/what-the-hell</link>
+            <guid>https://ekupaskibas18.github.io/blogs/drafts/what-the-hell</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[There is still one question lingering in my head I dare not answered.]]></description>
+            <content:encoded><![CDATA[<p>There is still one question lingering in my head I dare not answered. <br>
+Why do I fancy you? Oh, what the hell. <br></p>]]></content:encoded>
+            <category>draft</category>
+        </item>
         <item>
             <link>https://ekupaskibas18.github.io/blogs/drafts/balls</link>
             <guid>https://ekupaskibas18.github.io/blogs/drafts/balls</guid>
@@ -240,15 +249,6 @@ That's how I knew it's just a fucking dream, but still. <br>
 For you, I'll always be dreamin'. <br>
 Because I am a dreamer, and you are mine. <br>
 Come again, and don't ever wake me up. <br></p>]]></content:encoded>
-            <category>draft</category>
-        </item>
-        <item>
-            <link>https://ekupaskibas18.github.io/blogs/drafts/such-a-shame</link>
-            <guid>https://ekupaskibas18.github.io/blogs/drafts/such-a-shame</guid>
-            <pubDate>Fri, 14 Nov 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[It's such a shame the world will never know]]></description>
-            <content:encoded><![CDATA[<p>It's such a shame the world will never know <br>
-How I love you deeply in the soul. <br></p>]]></content:encoded>
             <category>draft</category>
         </item>
     </channel>
