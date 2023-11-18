@@ -6,7 +6,7 @@ keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet]
 ---
 
-I love you in the most unselfish possible way. <br/>
+I love you in the most unselfish possible way, <br/>
 Secretly, subtle, gentle and tame. <br/>
 I love you in a way I am so much willing to suffer, <br/>
 With a heart constantly breaking, day after day after day.<br/>
