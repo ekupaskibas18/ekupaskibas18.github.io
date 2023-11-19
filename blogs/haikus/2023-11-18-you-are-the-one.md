@@ -6,6 +6,6 @@ keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 
-Just one glance, you smiled;<br/>
+Just one glance, you smiled,<br/>
 An instant realization:<br/>
 ***You are the one.***<br/>
