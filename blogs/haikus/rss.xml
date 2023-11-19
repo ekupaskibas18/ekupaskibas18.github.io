@@ -4,7 +4,7 @@
         <title>Randell Tuazon Blog</title>
         <link>https://ekupaskibas18.github.io/blogs/haikus</link>
         <description>Randell Tuazon Blog</description>
-        <lastBuildDate>Mon, 13 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,11 +12,23 @@
             <title><![CDATA[You Are The One]]></title>
             <link>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</link>
             <guid>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</guid>
-            <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Just one glance, you smiled;]]></description>
             <content:encoded><![CDATA[<p>Just one glance, you smiled;<br>
 An instant realization:<br>
 <em><strong>You are the one.</strong></em><br></p>]]></content:encoded>
+            <category>poetry</category>
+            <category>haiku</category>
+        </item>
+        <item>
+            <title><![CDATA[Promises]]></title>
+            <link>https://ekupaskibas18.github.io/blogs/haikus/promises</link>
+            <guid>https://ekupaskibas18.github.io/blogs/haikus/promises</guid>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[After all these years,]]></description>
+            <content:encoded><![CDATA[<p>After all these years,<br>
+I will make you remember<br>
+My every promise.<br></p>]]></content:encoded>
             <category>poetry</category>
             <category>haiku</category>
         </item>
