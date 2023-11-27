@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[6574],{3061:e=>{e.exports=JSON.parse('{"permalink":"/blogs/quotes/tags/quotes","page":1,"postsPerPage":8,"totalPages":1,"totalCount":8,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
