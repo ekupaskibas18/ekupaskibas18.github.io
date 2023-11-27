@@ -23,4 +23,4 @@ I'll love you even without hope, nor you at all.
 &nbsp;&nbsp; *Even if it may not always seem to show,*  
 &nbsp;&nbsp; *I love you purely more than you ever know.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

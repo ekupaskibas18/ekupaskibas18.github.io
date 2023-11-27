@@ -23,4 +23,4 @@ Rehearsing sweet thoughts bubbling over my head.
 &nbsp;&nbsp; *But doubt this may and never bound to happen,*  
 &nbsp;&nbsp; *That I tire depend wishing things to Heaven.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

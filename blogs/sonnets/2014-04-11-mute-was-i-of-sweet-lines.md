@@ -23,4 +23,4 @@ It is but madness, I cannot say I love you.
 &nbsp;&nbsp; *And torn with regrets, what ifs and whatnot,*  
 &nbsp;&nbsp; *Would I've been any better to have earned your heart?*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

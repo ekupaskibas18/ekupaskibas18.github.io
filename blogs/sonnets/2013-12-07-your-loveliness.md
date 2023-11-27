@@ -23,4 +23,4 @@ Beknown this lifetime we'll never come across.
 &nbsp;&nbsp; *Shall fate robs this, I can no longer accept.*  
 &nbsp;&nbsp; *For it's all I have of you and ever kept.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

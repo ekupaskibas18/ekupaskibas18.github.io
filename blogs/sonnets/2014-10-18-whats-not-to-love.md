@@ -23,4 +23,4 @@ I'll love you still, be certain or mystery.
 &nbsp;&nbsp; *But if you still protest, I would not say more,*  
 &nbsp;&nbsp; *Let me just confirm my love for keeps therefore.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

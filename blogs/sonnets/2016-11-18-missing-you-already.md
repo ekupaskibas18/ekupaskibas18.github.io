@@ -23,4 +23,4 @@ I'll love you still even when you don't.
 &nbsp;&nbsp; *Soon, all of this will be a bittersweet memory,*  
 &nbsp;&nbsp; *You're still here, but I'm missing you already.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

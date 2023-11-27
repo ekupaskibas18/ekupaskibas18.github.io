@@ -23,4 +23,4 @@ Of the first step taken to be prevailing.
 &nbsp;&nbsp;&nbsp;&nbsp; *Remember no matter little or severe,*  
 &nbsp;&nbsp;&nbsp;&nbsp; *Love may hurt only when oneself is unclear.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>

@@ -23,4 +23,4 @@ Bleed you my first thought when reality rose.
 &nbsp;&nbsp; *If I dream another, and still find you there*  
 &nbsp;&nbsp; *Then let it be my last, hence dream forever.*  
 
-<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>
