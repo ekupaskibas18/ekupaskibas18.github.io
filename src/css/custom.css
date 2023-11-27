@@ -15,5 +15,5 @@
 
 .blog-list-page .markdown footer,
 .blog-post-page .markdown footer {
-  @apply font-rosarivo text-stone-600 mt-12 !mb-12;
+  @apply font-rosarivo text-sm text-stone-600 mt-12 !mb-12;
 }
