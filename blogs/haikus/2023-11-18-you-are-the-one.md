@@ -8,7 +8,7 @@ tags: [poetry, haiku]
 
 <br/><br/>
 
-Just one glance, you smiled,  
+Just one glance, you smiled...  
 An instant realization:  
 ***You are the one.***  
 
