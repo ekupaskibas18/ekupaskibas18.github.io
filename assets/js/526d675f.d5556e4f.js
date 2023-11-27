@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrandelltuazon=self.webpackChunkrandelltuazon||[]).push([[6210],{9279:e=>{e.exports=JSON.parse('{"title":"Quotes","items":[{"title":"","permalink":"/blogs/quotes/left-unanswered","unlisted":false},{"title":"","permalink":"/blogs/quotes/fall-into-place","unlisted":false},{"title":"","permalink":"/blogs/quotes/stop-dreaming","unlisted":false}]}')}}]);
