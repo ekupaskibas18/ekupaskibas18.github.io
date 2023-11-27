@@ -1,57 +1,19 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-@import "tailwindcss/base";       /* @tailwind base; */
-@import "./preflight.ext.css";
-@import "./reset.css";
-@import "tailwindcss/components"; /* @tailwind components; */
-@import "tailwindcss/utilities";  /* @tailwind utilities; */
-@import "./utilities.ext.css";
-@import "../../plugins/styles/index";
-
-/* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+.blog-list-page,
+.blog-post-page {
+  background: #F8F5F3;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+.blog-list-page .markdown h2,
+.blog-post-page .markdown h2 {
+  @apply font-klee-one text-stone-700 text-xl font-semibold mb-12;
 }
 
-@layer components {
-  .navbar {
-    @apply sticky;
-  }
+.blog-list-page .markdown p,
+.blog-post-page .markdown p {
+  @apply font-inconsolata text-lg;
 }
 
-#mprogressBuffer,
-#mprogressDeterminate,
-#mprogressIndeterminate {
-  height: 5px;
-  width: 100%;
-}
-
-#mprogressBuffer .deter-bar,
-#mprogressDeterminate .deter-bar,
-#mprogressIndeterminate .indeter-bar {
-  background: url(/img/rainbow-bar.gif) 100%;
+.blog-list-page .markdown footer,
+.blog-post-page .markdown footer {
+  @apply font-rosarivo text-stone-600 mt-12 !mb-12;
 }

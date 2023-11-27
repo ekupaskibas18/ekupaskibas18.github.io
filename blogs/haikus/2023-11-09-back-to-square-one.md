@@ -6,6 +6,10 @@ keywords: [randell tuazon, poetry, haiku]
 tags: [poetry, haiku]
 ---
 
-Just one sleight of hope <br/>
-One smile; Here we go again. <br/>
-Back to square one. <br/>
+<br/><br/>
+
+Just one sleight of hope,  
+One smile... here we go again.  
+Back to square one.  
+
+<footer>— **Randell Tuazon** <div class="text-sm mt-2">*A Haiku: Back to Square One*</div></footer>

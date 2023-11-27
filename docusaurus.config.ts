@@ -57,7 +57,7 @@ const config: Config = {
         },
         theme: {
           customCss: [
-            './src/css/custom.css',
+            './src/css/base.css',
             // require.resolve('swiper/css/bundle'),
             // require.resolve('nouislider/dist/nouislider.css'),
           ],
@@ -79,6 +79,14 @@ const config: Config = {
     {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap',
+    },
+    {
+      rel: 'stylesheet',
+      href: "https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&family=Handlee&family=Klee+One:wght@400;600&family=Rosarivo&display=swap",
+    },
+    {
+      rel: 'stylesheet',
+      href: "https://fonts.googleapis.com/css2?family=Fragment+Mono&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Oxygen+Mono&display=swap",
     },
     // {
     //   rel: 'stylesheet',
@@ -238,6 +246,27 @@ const config: Config = {
         /**
          * Required for any multi-instance plugin
          */
+        id: 'quotes-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: '/blogs/quotes',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './blogs/quotes',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Quotes',
+        postsPerPage: 'ALL',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
         id: 'drafts-blog',
         /**
          * URL route for the blog section of your site.
@@ -249,7 +278,7 @@ const config: Config = {
          */
         path: './blogs/drafts',
         blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Drafts & Thoughts (My Wall of Shame)',
+        blogSidebarTitle: 'Drafts & Thoughts (Wall of Shame)',
         postsPerPage: 'ALL',
       },
     ],
@@ -306,6 +335,7 @@ const config: Config = {
         { to: '/blogs/sonnets', label: 'Sonnets', position: 'left' },
         { to: '/blogs/haikus', label: 'Haikus', position: 'left' },
         { to: '/blogs/love-letters', label: 'Love Letters', position: 'left' },
+        { to: '/blogs/quotes', label: 'Quotes', position: 'left' },
         { to: '/blogs/drafts', label: 'Drafts & Thoughts', position: 'left' },
         // {
         //   href: 'https://github.com/facebook/docusaurus',

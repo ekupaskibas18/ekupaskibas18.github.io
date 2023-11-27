@@ -6,17 +6,21 @@ keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet, 11-syllables, aabb-ccdd-eeff-gg]
 ---
 
-When in God's time I with you be introduced,<br/>
-I'll urge perfection for such a perfect muse.<br/>
-I'll cherry-pick the sweetest words, by fair chance<br/>
-Align our first talk in sweet deliverance.<br/>
-Yet I fear to try too much and please you none,<br/>
-And be lost forever, my elusive one.<br/>
-Or in regret be drowned of what might have been<br/>
-That I spent the idle night, much into thinking.<br/>
-And unto my excitements, my senses wake,<br/>
-Out of overmuch preparations to make<br/>
-Than be well-rested, had gotten weary instead<br/>
-Rehearsing sweet thoughts bubbling over my head.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; *But doubt this may and never bound to happen,*<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; *That I tire depend wishing things to Heaven.*<br/>
+## Elusive One
+
+When in God's time I with you be introduced,  
+I'll urge perfection for such a perfect muse.  
+I'll cherry-pick the sweetest words, by fair chance,  
+Align our first talk in sweet deliverance.  
+Yet I fear to try too much and please you none,  
+And be lost forever, my elusive one.  
+Or in regret be drowned of what might have been,  
+That I spent the idle night, much into thinking.  
+And unto my excitements, my senses wake,  
+Out of overmuch preparations to make.  
+Than be well-rested, had gotten weary instead,  
+Rehearsing sweet thoughts bubbling over my head.  
+&nbsp;&nbsp; *But doubt this may and never bound to happen,*  
+&nbsp;&nbsp; *That I tire depend wishing things to Heaven.*  
+
+<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>

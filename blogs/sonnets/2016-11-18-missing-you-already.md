@@ -6,17 +6,21 @@ keywords: [randell tuazon, poetry, sonnet]
 tags: [poetry, sonnet]
 ---
 
-I love you in the most unselfish possible way, <br/>
-Secretly, subtle, gentle and tame. <br/>
-I love you in a way I am so much willing to suffer, <br/>
-With a heart constantly breaking, day after day after day.<br/>
-Without the idea of tomorrow and second chances, <br/>
-Pure within and always full of passion. <br/>
-I love you beyond words, before myself and above all, <br/>
-Every little now and then. <br/>
-By sweet thoughts of you, there's a pinch in the heart,<br/>
-Of the certain downfall, but my heart so neverminds.<br/>
-I'll love you still even when you don't.<br/>
-And even if I get lost, you will always be my home.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; *Soon, all of this will be a bittersweet memory,*<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; *You're still here, but I'm missing you already.*<br/>
+## Missing You Already
+
+I love you in the most unselfish possible way,  
+Secretly, subtle, gentle and tame.  
+I love you in a way I am so much willing to suffer,  
+With a heart constantly breaking, day after day after day.  
+Without the idea of tomorrow and second chances,  
+Pure within and always full of passion.  
+I love you beyond words, before myself and above all,  
+Every little now and then.  
+By sweet thoughts of you, there's a pinch in the heart,  
+Of the certain downfall, but my heart so neverminds.  
+And even if I get lost, you will always be home.  
+I'll love you still even when you don't.  
+&nbsp;&nbsp; *Soon, all of this will be a bittersweet memory,*  
+&nbsp;&nbsp; *You're still here, but I'm missing you already.*  
+
+<footer>— **Randell Tuazon**, *100 Love Sonnets*</footer>
