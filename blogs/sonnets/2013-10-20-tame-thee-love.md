@@ -20,7 +20,7 @@ So but tame thee love and discover its use,
 See clearly its uses, and give no excuse.  
 Let it be the light and a solemn beginning  
 Of the first step taken to be prevailing.  
-&nbsp;&nbsp;&nbsp;&nbsp; *Remember no matter little or severe,*  
-&nbsp;&nbsp;&nbsp;&nbsp; *Love may hurt only when oneself is unclear.*  
+&nbsp;&nbsp; *Remember no matter little or severe,*  
+&nbsp;&nbsp; *Love may hurt only when oneself is unclear.*  
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets*</div></footer>
