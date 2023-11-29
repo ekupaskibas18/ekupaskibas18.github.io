@@ -6,7 +6,7 @@ keywords: [randell tuazon, quotes]
 tags: [quotes]
 ---
 
-<br/><br/>
+<br/><br/><br/>
 
 In a house full of drunks, and cheats and loud sound,  
 Hardly the place where love's likely to be found.  
@@ -15,4 +15,7 @@ Glued in one corner by myself, seeming odd.
 &nbsp;&nbsp; *While all men were looking for the easy one to fuck,*  
 &nbsp;&nbsp; *There I was a fool, waiting and looking for love.*  
 
-<footer>— **Randell Tuazon** <div class="text-sm mt-1">*100 Love Sonnets: Lone Man Sober*</div></footer>
+<footer>
+  — Randell Tuazon 
+  <div class="text-xs mt-2 text-stone-500">*100 Love Sonnets: Lone Man Sober*</div>
+</footer>

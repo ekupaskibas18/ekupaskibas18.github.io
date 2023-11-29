@@ -6,7 +6,7 @@ keywords: [randell tuazon, quotes]
 tags: [quotes]
 ---
 
-<br/><br/>
+<br/><br/><br/>
 
 I'll marry you anywhere an altar stands,  
 and all our favourite beaches with white sands.  
@@ -17,4 +17,7 @@ On our short dates, and long trips.
 Remind you each day how much I love you.  
 Will you?  
 
-<footer>— **Randell Tuazon** <div class="text-sm mt-2">*Notes While Daydreaming*</div></footer>
+<footer>
+  — Randell Tuazon 
+  <div class="text-xs mt-2 text-stone-500">*Notes While Daydreaming*</div>
+</footer>

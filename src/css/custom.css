@@ -5,7 +5,7 @@
 
 .blog-list-page .markdown h2,
 .blog-post-page .markdown h2 {
-  @apply font-klee-one text-stone-700 text-xl font-semibold mb-12;
+  @apply font-oxygen-mono text-stone-700 text-xl font-medium mb-14;
 }
 
 .blog-list-page .markdown p,
@@ -14,6 +14,8 @@
 }
 
 .blog-list-page .markdown footer,
-.blog-post-page .markdown footer {
-  @apply font-rosarivo text-sm text-stone-600 mt-12 !mb-12;
+.blog-list-page .markdown footer p,
+.blog-post-page .markdown footer,
+.blog-post-page .markdown footer p {
+  @apply font-fragment-mono text-sm text-stone-600 mt-20 !mb-16;
 }
