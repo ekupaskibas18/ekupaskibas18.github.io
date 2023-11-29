@@ -1,5 +1,5 @@
 ---
-slug: break-my-own-heart
+slug: the-little-things
 title: ''
 authors: [randelltuazon]
 keywords: [randell tuazon, quotes]
@@ -8,9 +8,7 @@ tags: [quotes]
 
 <br/><br/>
 
-For you, I'll break my own heart if I have to.  
-Burn in a living hell.  
-Lose myself within.  
-And it'll still be worth it.  
+Sometimes, it's the little things  
+that make a huge difference in keeping the love alive.  
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming*</div></footer>
