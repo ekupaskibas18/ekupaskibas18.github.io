@@ -9,6 +9,8 @@ tags: [quotes]
 <br/><br/>
 
 For you, I'll break my own heart if I have to.
+Burn in a living hell.
+Lose myself within.
 And it'll still be worth it.
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming*</div></footer>
