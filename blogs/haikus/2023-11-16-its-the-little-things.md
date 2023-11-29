@@ -8,8 +8,8 @@ tags: [poetry, haiku]
 
 <br/><br/>
 
-It's the little things
-That make a huge difference
-Keeping love alive.
+It's the little things  
+That make a huge difference  
+Keeping love alive.  
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-2">*A Haiku: It's the Little Things*</div></footer>
