@@ -12,7 +12,7 @@ None more so to say, swayed I in an instant.
 My day rises at presence of your radiance.  
 I beseech heaven draw forth all these jitters,  
 That then I find myself lost in deeper prayers.  
-Yours is a beauty resembling a goddess,  
+For yours is a beauty resembling a goddess,  
 Sustained upon perfectly at all angles.  
 My eyes troubled into looking straight with yours,  
 For I'll be melting, and more my heart implores  
