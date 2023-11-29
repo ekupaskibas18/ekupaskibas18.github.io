@@ -11,6 +11,6 @@ tags: [quotes]
 For you, I'll break my own heart if I have to.  
 Burn in a living hell.  
 Lose myself within.  
-And it'll still be worth it.  
+And it'll still be worth the agony.  
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming*</div></footer>
