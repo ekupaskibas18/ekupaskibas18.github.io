@@ -8,7 +8,7 @@ tags: [poetry, sonnet, 11-syllables, aabb-ccdd-eeff-gg]
 
 ## Mute Was I of Sweet Lines
 
-None more so to say, swayed I in an instant.  
+None more so to say, swept I in an instant.  
 My day rises at presence of your radiance.  
 I beseech heaven draw forth all these jitters,  
 That then I find myself lost in deeper prayers.  
