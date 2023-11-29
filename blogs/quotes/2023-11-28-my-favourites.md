@@ -8,8 +8,8 @@ tags: [quotes]
 
 <br/><br/>
 
-It's your infinitely sweet sunshine smile,  
-Your perfectly happy rounded eyes,  
+It's your perfectly happy rounded eyes,  
+Your infinitely sweet smile where the sun shines,  
 And your enticingly charming wits.  
 All of them are in a long list of my favourites.  
 
