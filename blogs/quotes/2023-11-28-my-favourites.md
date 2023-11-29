@@ -9,7 +9,7 @@ tags: [quotes]
 <br/><br/>
 
 It's your infinitely sweet sunshine smile,  
-Your perfectly happy rounded eyes, and your sexy wits.  
+Your perfectly happy rounded eyes, and your charming wits.  
 All of them are in a long list of my favourites.  
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-2">*Notes While Daydreaming*</div></footer>
