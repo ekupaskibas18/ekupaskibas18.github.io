@@ -13,4 +13,4 @@ Burn in a living hell,
 Drown in despair and lose myself within.  
 And it'll still be worth the agony.  
 
-<footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming*</div></footer>
+<footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming, Drafts for a Sonnet*</div></footer>
