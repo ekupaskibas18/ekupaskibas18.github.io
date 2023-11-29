@@ -9,6 +9,6 @@ tags: [quotes]
 <br/><br/>
 
 For you, I'll break my own heart if I have to.
-It'll still be worth it.
+And it'll still be worth it.
 
 <footer>— **Randell Tuazon** <div class="text-sm mt-1">*Notes While Daydreaming*</div></footer>
