@@ -15,7 +15,7 @@ While I strive hard to look more seemingly calm.
 Please, last the fading day, and althrough the night,  
 Remain from me alive, you by borrowed sight.  
 For uncertain tomorrows may be unblessed,  
-And lest I may ran out of your loveliness.  
+In case I may ran out of your loveliness.  
 Through weekends' boredom I myself come weary,  
 A day none of you is only misery.  
 Most treasured you, never had but neither lost.  
