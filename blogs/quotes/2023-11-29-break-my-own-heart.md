@@ -8,10 +8,11 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-For you, I'll break my own heart if I have to.  
+For you, I'll break my own heart if I have to.   
 Burn in a living hell,  
-Drown in despair and lose myself within.  
-And it'll still be worth the agony.  
+Lose myself and drown in despair.  
+Come reign all over and ruin me.  
+And you'll still be worth all the agony.  
 
 <footer>
   — Randell Tuazon 
