@@ -8,7 +8,7 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-Raise the bar, but be gentle on yourself.  
+Raise the stakes, but be gentle on yourself.  
 Make some regrettable mistakes of your lifetime.  
 Learn and rise back from the ashes.  
 But never ever make the same mistakes twice.  
