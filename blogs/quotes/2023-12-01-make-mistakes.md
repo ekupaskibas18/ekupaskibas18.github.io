@@ -8,9 +8,9 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-Raise the stakes, but be gentle on yourself.  
-Make some regrettable mistakes of your lifetime.  
-Learn and rise back from the ashes.  
+Raise the stakes, make some regrettable mistakes.  
+But be gentle on yourself.  
+Learn hard and rise back from the ashes.  
 But never ever make the same mistakes twice.  
 
 <footer>
