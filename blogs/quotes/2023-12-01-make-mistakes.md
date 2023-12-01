@@ -8,7 +8,7 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-Make the mistakes of a lifetime.   
+Make the mistakes of your lifetime.   
 Learn and rise again.  
 But never ever make the same mistakes twice.  
 
