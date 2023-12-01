@@ -8,8 +8,9 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-Make the mistakes of your lifetime.   
-Learn and rise again.  
+Raise the bar, but be gentle with yourself.  
+Make some regrettable mistakes of your lifetime.  
+Learn and rise back from the ashes.  
 But never ever make the same mistakes twice.  
 
 <footer>
