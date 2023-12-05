@@ -1,5 +1,5 @@
 ---
-slug: realize
+slug: dirty-little-secret
 title: ''
 authors: [randelltuazon]
 keywords: [randell tuazon, quotes]
