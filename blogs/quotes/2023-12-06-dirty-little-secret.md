@@ -14,8 +14,10 @@ Share one little secret, and I'll whisper another back.
 Until there's nothing else to do but fuck.  
 Save the consequences for later,  
 We'll deal with all of it after.  
-Do tease me that may we again be situated same,  
-Don't test me, you know I'm always game.  
+&nbsp;&nbsp; *Do tease me that may we again be situated same,*  
+&nbsp;&nbsp; *Don't test me, you know I'm always game.*  
+  
+
 
 <footer>
   Randell Tuazon
