@@ -10,7 +10,7 @@ tags: [quotes]
 
 I have grown weary from only watching and waiting.  
 Now marks the time perfectly for some soul-searching.  
-Where not a soul knows my name, somewhere new with a pretty view,  
+Where not a soul knows my name, somewhere new with a jawdropping view,  
 And maybe... just maybe, I'll find you too.  
 
 <footer>
