@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ekupaskibas18.github.io/blogs/quotes</id>
     <title>Randell Tuazon Blog</title>
-    <updated>2023-12-01T00:00:00.000Z</updated>
+    <updated>2023-12-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ekupaskibas18.github.io/blogs/quotes"/>
     <subtitle>Randell Tuazon Blog</subtitle>
     <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/quotes/realize</id>
+        <link href="https://ekupaskibas18.github.io/blogs/quotes/realize"/>
+        <updated>2023-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I don't know when I'll realize...]]></summary>
+        <content type="html"><![CDATA[<br>
+<br>
+<br>
+<p>I don't know when I'll realize...<br>
+<!-- -->that I love you.</p>
+<footer><div class="text-xs mt-2 text-stone-500"><em>Notes While Daydreaming</em></div></footer>]]></content>
+        <author>
+            <name>Randell Tuazon</name>
+            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+        </author>
+        <category label="quotes" term="quotes"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/quotes/realize2</id>
+        <link href="https://ekupaskibas18.github.io/blogs/quotes/realize2"/>
+        <updated>2023-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I don't know when I'll realize that I love you.]]></summary>
+        <content type="html"><![CDATA[<br>
+<br>
+<br>
+<p>I don't know when I'll realize that I love you.<br>
+<!-- -->If and when I do, I pray it's not too late.</p>
+<footer><div class="text-xs mt-2 text-stone-500"><em>Notes While Daydreaming</em></div></footer>]]></content>
+        <author>
+            <name>Randell Tuazon</name>
+            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+        </author>
+        <category label="quotes" term="quotes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://ekupaskibas18.github.io/blogs/quotes/make-mistakes</id>
