@@ -16,8 +16,6 @@ Save the consequences for later,
 We'll deal with all of it after.  
 &nbsp;&nbsp; *Do tease me that may we again be situated same,*  
 &nbsp;&nbsp; *Don't test me, you know I'm always game.*  
-  
-
 
 <footer>
   Randell Tuazon
