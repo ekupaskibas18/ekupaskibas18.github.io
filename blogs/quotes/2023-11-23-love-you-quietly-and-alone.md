@@ -8,8 +8,8 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-I do not need you to know me.  
-I just want to love you quietly and alone.  
+I do not need you to notice me.  
+Let me love you quietly and alone.  
 
 <footer>
   — Randell Tuazon 
