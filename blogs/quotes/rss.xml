@@ -4,10 +4,25 @@
         <title>Randell Tuazon Blog</title>
         <link>https://ekupaskibas18.github.io/blogs/quotes</link>
         <description>Randell Tuazon Blog</description>
-        <lastBuildDate>Wed, 06 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <link>https://ekupaskibas18.github.io/blogs/quotes/loved-you-once</link>
+            <guid>https://ekupaskibas18.github.io/blogs/quotes/loved-you-once</guid>
+            <pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I loved you once deeply,]]></description>
+            <content:encoded><![CDATA[<br>
+<br>
+<br>
+<p>I loved you once deeply,<br>
+<!-- -->But you and I are done.<br>
+<!-- -->I'm not coming back.</p>
+<footer><p>Randell Tuazon
+</p><div class="text-xs mt-2 text-stone-500"><em>Imperfect Sonnets</em></div><p></p></footer>]]></content:encoded>
+            <category>quotes</category>
+        </item>
         <item>
             <link>https://ekupaskibas18.github.io/blogs/quotes/dirty-little-secret</link>
             <guid>https://ekupaskibas18.github.io/blogs/quotes/dirty-little-secret</guid>
@@ -299,24 +314,6 @@ Or maybe, we would then find out it was never really answered, because we didn't
 <!-- -->How I love you deeply in the soul.</p>
 <footer><p>— Randell Tuazon
 </p><div class="text-xs mt-2 text-stone-500"><em>Notes While Daydreaming</em></div><p></p></footer>]]></content:encoded>
-            <category>quotes</category>
-        </item>
-        <item>
-            <link>https://ekupaskibas18.github.io/blogs/quotes/lone-man-sober</link>
-            <guid>https://ekupaskibas18.github.io/blogs/quotes/lone-man-sober</guid>
-            <pubDate>Thu, 13 Nov 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[In a house full of drunks, and cheats and loud sound,]]></description>
-            <content:encoded><![CDATA[<br>
-<br>
-<br>
-<p>In a house full of drunks, and cheats and loud sound,<br>
-<!-- -->Hardly the place where love's likely to be found.<br>
-<!-- -->I was the lone man sober, and yet more mad,<br>
-<!-- -->Glued in one corner by myself, seeming odd.<br>
-<!-- -->&nbsp;&nbsp; <em>While all men were looking for the easy one to fuck,</em><br>
-<!-- -->&nbsp;&nbsp; <em>There I was a fool, waiting and looking for love.</em></p>
-<footer><p>— Randell Tuazon
-</p><div class="text-xs mt-2 text-stone-500"><em>100 Love Sonnets: Lone Man Sober</em></div><p></p></footer>]]></content:encoded>
             <category>quotes</category>
         </item>
     </channel>

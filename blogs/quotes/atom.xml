@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ekupaskibas18.github.io/blogs/quotes</id>
     <title>Randell Tuazon Blog</title>
-    <updated>2023-12-06T00:00:00.000Z</updated>
+    <updated>2023-12-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ekupaskibas18.github.io/blogs/quotes"/>
     <subtitle>Randell Tuazon Blog</subtitle>
     <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://ekupaskibas18.github.io/blogs/quotes/loved-you-once</id>
+        <link href="https://ekupaskibas18.github.io/blogs/quotes/loved-you-once"/>
+        <updated>2023-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I loved you once deeply,]]></summary>
+        <content type="html"><![CDATA[<br>
+<br>
+<br>
+<p>I loved you once deeply,<br>
+<!-- -->But you and I are done.<br>
+<!-- -->I'm not coming back.</p>
+<footer><p>Randell Tuazon
+</p><div class="text-xs mt-2 text-stone-500"><em>Imperfect Sonnets</em></div><p></p></footer>]]></content>
+        <author>
+            <name>Randell Tuazon</name>
+            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+        </author>
+        <category label="quotes" term="quotes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://ekupaskibas18.github.io/blogs/quotes/dirty-little-secret</id>
@@ -389,29 +409,6 @@ Or maybe, we would then find out it was never really answered, because we didn't
 <!-- -->How I love you deeply in the soul.</p>
 <footer><p>— Randell Tuazon
 </p><div class="text-xs mt-2 text-stone-500"><em>Notes While Daydreaming</em></div><p></p></footer>]]></content>
-        <author>
-            <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
-        </author>
-        <category label="quotes" term="quotes"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/quotes/lone-man-sober</id>
-        <link href="https://ekupaskibas18.github.io/blogs/quotes/lone-man-sober"/>
-        <updated>2014-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a house full of drunks, and cheats and loud sound,]]></summary>
-        <content type="html"><![CDATA[<br>
-<br>
-<br>
-<p>In a house full of drunks, and cheats and loud sound,<br>
-<!-- -->Hardly the place where love's likely to be found.<br>
-<!-- -->I was the lone man sober, and yet more mad,<br>
-<!-- -->Glued in one corner by myself, seeming odd.<br>
-<!-- -->&nbsp;&nbsp; <em>While all men were looking for the easy one to fuck,</em><br>
-<!-- -->&nbsp;&nbsp; <em>There I was a fool, waiting and looking for love.</em></p>
-<footer><p>— Randell Tuazon
-</p><div class="text-xs mt-2 text-stone-500"><em>100 Love Sonnets: Lone Man Sober</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
             <uri>https://www.instagram.com/randelltuazon.poetry</uri>
