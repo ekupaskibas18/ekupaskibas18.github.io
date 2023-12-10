@@ -9,7 +9,7 @@ tags: [quotes]
 <br/><br/><br/>
 
 I loved you once deeply,  
-But you and I are done.  
+but you and I are done.  
 I'm not coming back.  
 
 <footer>
