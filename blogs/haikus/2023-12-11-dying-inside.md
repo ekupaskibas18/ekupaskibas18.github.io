@@ -10,7 +10,7 @@ tags: [poetry, haiku]
 
 I'm looking at you...  
 So happy, so full of life.  
-***I'm dying inside.***  
+I'm dying inside.  
 
 <footer>
   Randell Tuazon 
