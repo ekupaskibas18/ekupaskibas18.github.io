@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandellyaptuazon=self.webpackChunkrandellyaptuazon||[]).push([[1037],{9525:a=>{a.exports=JSON.parse('{"permalink":"/blogs/haikus/tags/haiku","page":1,"postsPerPage":12,"totalPages":1,"totalCount":12,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

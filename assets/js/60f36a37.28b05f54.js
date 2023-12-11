@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandellyaptuazon=self.webpackChunkrandellyaptuazon||[]).push([[598],{6564:a=>{a.exports=JSON.parse('{"label":"haiku","permalink":"/blogs/haikus/tags/haiku","allTagsPath":"/blogs/haikus/tags","count":12,"unlisted":false}')}}]);
