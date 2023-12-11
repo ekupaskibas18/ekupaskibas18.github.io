@@ -8,9 +8,9 @@ tags: [poetry, haiku]
 
 <br/><br/><br/>
 
-What a lovely sight  
-So happy and full of life,  
-And I'm dying inside.  
+What a lovely sight,  
+So happy and full of life.  
+Here I'm dying inside.  
 
 <footer>
   Randell Tuazon 
