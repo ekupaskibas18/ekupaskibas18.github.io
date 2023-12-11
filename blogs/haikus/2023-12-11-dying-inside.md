@@ -9,7 +9,7 @@ tags: [poetry, haiku]
 <br/><br/><br/>
 
 I'm looking at you...  
-So happy, so full of life.
+So happy, so full of life.  
 ***I'm dying inside.***  
 
 <footer>
