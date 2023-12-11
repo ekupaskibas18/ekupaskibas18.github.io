@@ -8,7 +8,7 @@ tags: [poetry, haiku]
 
 <br/><br/><br/>
 
-What a lovely sight 
+What a lovely sight  
 So happy and full of life,  
 And I'm dying inside.  
 
