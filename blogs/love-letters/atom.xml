@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ekupaskibas18.github.io/blogs/love-letters</id>
+    <id>https://randellyaptuazon.github.io/blogs/love-letters</id>
     <title>Randell Tuazon Blog</title>
     <updated>2015-11-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ekupaskibas18.github.io/blogs/love-letters"/>
+    <link rel="alternate" href="https://randellyaptuazon.github.io/blogs/love-letters"/>
     <subtitle>Randell Tuazon Blog</subtitle>
-    <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
+    <icon>https://randellyaptuazon.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[An Unsent Love Letter]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/love-letters/an-unsent-love-letter</id>
-        <link href="https://ekupaskibas18.github.io/blogs/love-letters/an-unsent-love-letter"/>
+        <id>https://randellyaptuazon.github.io/blogs/love-letters/an-unsent-love-letter</id>
+        <link href="https://randellyaptuazon.github.io/blogs/love-letters/an-unsent-love-letter"/>
         <updated>2015-11-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I cannot utter my words and find the right ones. Because there may never be such words to describe, how I've fallen to you so dearly.]]></summary>
         <content type="html"><![CDATA[<p>I cannot utter my words and find the right ones. Because there may never be such words to describe, how I've fallen to you so dearly.
@@ -71,14 +71,14 @@ But if they start to hurt you, and everything goes wrong, just tell me... Becaus
 <p>I hope you find what you're looking for.</p>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="love-letter" term="love-letter"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Absolution]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/love-letters/absolution</id>
-        <link href="https://ekupaskibas18.github.io/blogs/love-letters/absolution"/>
+        <id>https://randellyaptuazon.github.io/blogs/love-letters/absolution</id>
+        <link href="https://randellyaptuazon.github.io/blogs/love-letters/absolution"/>
         <updated>2014-07-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Before the journey even began, the thing I was already preparing for, and had been worrying and wondering]]></summary>
         <content type="html"><![CDATA[<p>Before the journey even began, the thing I was already preparing for, and had been worrying and wondering
@@ -111,14 +111,14 @@ probably are the best to happen in my entire life. And having that chance is a w
 thing I have ever done. I fail for reasons but I don't make excuses. If there is something to realize, I know I already knew it right from the start. Risk my faith because I seek for freedom. I seek for the truth. I seek for the meaning of my life. There can really be no justice. Only absolution.</p>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="love-letter" term="love-letter"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reality]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/love-letters/reality</id>
-        <link href="https://ekupaskibas18.github.io/blogs/love-letters/reality"/>
+        <id>https://randellyaptuazon.github.io/blogs/love-letters/reality</id>
+        <link href="https://randellyaptuazon.github.io/blogs/love-letters/reality"/>
         <updated>2012-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[There are those things we want to have. Then there are those things that we need to have. And sometimes,]]></summary>
         <content type="html"><![CDATA[<p>There are those things we want to have. Then there are those things that we need to have. And sometimes,
@@ -145,7 +145,7 @@ then find out that it was never really answered, because we didnít have to. We 
 answer anymore.</p>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="love-letter" term="love-letter"/>
     </entry>

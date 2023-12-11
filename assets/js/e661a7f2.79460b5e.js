@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandellyaptuazon=self.webpackChunkrandellyaptuazon||[]).push([[6731],{5941:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"quotes-blog"}')}}]);

@@ -2,16 +2,33 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Randell Tuazon Blog</title>
-        <link>https://ekupaskibas18.github.io/blogs/haikus</link>
+        <link>https://randellyaptuazon.github.io/blogs/haikus</link>
         <description>Randell Tuazon Blog</description>
-        <lastBuildDate>Sat, 18 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[Dying Inside]]></title>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/dying-inside</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/dying-inside</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm looking at you...]]></description>
+            <content:encoded><![CDATA[<br>
+<br>
+<br>
+<p>I'm looking at you...<br>
+<!-- -->So happy, so full of life.
+<em><strong>I'm dying inside.</strong></em></p>
+<footer><p>— Randell Tuazon
+</p><div class="text-xs mt-2 text-stone-500"><em>Haiku: Dying Inside</em></div><p></p></footer>]]></content:encoded>
+            <category>poetry</category>
+            <category>haiku</category>
+        </item>
+        <item>
             <title><![CDATA[You Are the One]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/you-are-the-one</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/you-are-the-one</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Just one glance, you smiled...]]></description>
             <content:encoded><![CDATA[<br>
@@ -27,8 +44,8 @@
         </item>
         <item>
             <title><![CDATA[Promises]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/promises</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/promises</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/promises</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/promises</guid>
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[After all these years,]]></description>
             <content:encoded><![CDATA[<br>
@@ -44,8 +61,8 @@
         </item>
         <item>
             <title><![CDATA[Little Things]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/little-things</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/little-things</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/little-things</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/little-things</guid>
             <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[It's the little things]]></description>
             <content:encoded><![CDATA[<br>
@@ -61,8 +78,8 @@
         </item>
         <item>
             <title><![CDATA[Secret World]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/secret-world</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/secret-world</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/secret-world</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/secret-world</guid>
             <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[In a secret world,]]></description>
             <content:encoded><![CDATA[<br>
@@ -78,8 +95,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[Thoughts of You]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/thoughts-of-you</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/thoughts-of-you</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/thoughts-of-you</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/thoughts-of-you</guid>
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Thinking thoughts of you,]]></description>
             <content:encoded><![CDATA[<br>
@@ -95,8 +112,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[Back to Square One]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/back-to-square-one</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/back-to-square-one</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/back-to-square-one</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/back-to-square-one</guid>
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Just one sleight of hope,]]></description>
             <content:encoded><![CDATA[<br>
@@ -112,8 +129,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[Love Song]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/love-song</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/love-song</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/love-song</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/love-song</guid>
             <pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[You are a love song]]></description>
             <content:encoded><![CDATA[<br>
@@ -129,8 +146,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[Nothing More Beautiful]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/nothing-more-beautiful</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/nothing-more-beautiful</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/nothing-more-beautiful</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/nothing-more-beautiful</guid>
             <pubDate>Tue, 22 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[The sands, sky, nor sea,]]></description>
             <content:encoded><![CDATA[<br>
@@ -146,8 +163,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[Go and Find Yourself]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/find-yourself</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/find-yourself</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/find-yourself</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/find-yourself</guid>
             <pubDate>Fri, 18 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Go and find yourself.]]></description>
             <content:encoded><![CDATA[<br>
@@ -163,8 +180,8 @@ My sweetest escape.</p>
         </item>
         <item>
             <title><![CDATA[By the End of the Day]]></title>
-            <link>https://ekupaskibas18.github.io/blogs/haikus/by-the-end-of-the-day</link>
-            <guid>https://ekupaskibas18.github.io/blogs/haikus/by-the-end-of-the-day</guid>
+            <link>https://randellyaptuazon.github.io/blogs/haikus/by-the-end-of-the-day</link>
+            <guid>https://randellyaptuazon.github.io/blogs/haikus/by-the-end-of-the-day</guid>
             <pubDate>Thu, 17 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[We'll fight, we'll argue.]]></description>
             <content:encoded><![CDATA[<br>

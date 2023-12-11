@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandellyaptuazon=self.webpackChunkrandellyaptuazon||[]).push([[9398],{1762:s=>{s.exports=JSON.parse('{"label":"11-syllables","permalink":"/blogs/sonnets/tags/11-syllables","allTagsPath":"/blogs/sonnets/tags","count":7,"unlisted":false}')}}]);

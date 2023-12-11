@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ekupaskibas18.github.io/blogs/haikus</id>
+    <id>https://randellyaptuazon.github.io/blogs/haikus</id>
     <title>Randell Tuazon Blog</title>
-    <updated>2023-11-18T00:00:00.000Z</updated>
+    <updated>2023-12-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ekupaskibas18.github.io/blogs/haikus"/>
+    <link rel="alternate" href="https://randellyaptuazon.github.io/blogs/haikus"/>
     <subtitle>Randell Tuazon Blog</subtitle>
-    <icon>https://ekupaskibas18.github.io/img/favicon.ico</icon>
+    <icon>https://randellyaptuazon.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dying Inside]]></title>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/dying-inside</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/dying-inside"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking at you...]]></summary>
+        <content type="html"><![CDATA[<br>
+<br>
+<br>
+<p>I'm looking at you...<br>
+<!-- -->So happy, so full of life.
+<em><strong>I'm dying inside.</strong></em></p>
+<footer><p>— Randell Tuazon
+</p><div class="text-xs mt-2 text-stone-500"><em>Haiku: Dying Inside</em></div><p></p></footer>]]></content>
+        <author>
+            <name>Randell Tuazon</name>
+            <uri>https://www.instagram.com/randelltuazon</uri>
+        </author>
+        <category label="poetry" term="poetry"/>
+        <category label="haiku" term="haiku"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Are the One]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/you-are-the-one"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/you-are-the-one</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/you-are-the-one"/>
         <updated>2023-11-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Just one glance, you smiled...]]></summary>
         <content type="html"><![CDATA[<br>
@@ -23,15 +44,15 @@
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: You Are the One</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Promises]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/promises</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/promises"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/promises</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/promises"/>
         <updated>2023-11-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[After all these years,]]></summary>
         <content type="html"><![CDATA[<br>
@@ -44,15 +65,15 @@
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Promises</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Little Things]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/little-things</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/little-things"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/little-things</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/little-things"/>
         <updated>2023-11-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[It's the little things]]></summary>
         <content type="html"><![CDATA[<br>
@@ -65,15 +86,15 @@
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Little Things</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Secret World]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/secret-world</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/secret-world"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/secret-world</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/secret-world"/>
         <updated>2023-11-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[In a secret world,]]></summary>
         <content type="html"><![CDATA[<br>
@@ -86,15 +107,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Secret World</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Thoughts of You]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/thoughts-of-you</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/thoughts-of-you"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/thoughts-of-you</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/thoughts-of-you"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Thinking thoughts of you,]]></summary>
         <content type="html"><![CDATA[<br>
@@ -107,15 +128,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Thoughts of You</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Back to Square One]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/back-to-square-one</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/back-to-square-one"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/back-to-square-one</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/back-to-square-one"/>
         <updated>2023-11-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Just one sleight of hope,]]></summary>
         <content type="html"><![CDATA[<br>
@@ -128,15 +149,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Back to Square One</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Love Song]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/love-song</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/love-song"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/love-song</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/love-song"/>
         <updated>2017-08-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[You are a love song]]></summary>
         <content type="html"><![CDATA[<br>
@@ -149,15 +170,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Love Song</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nothing More Beautiful]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/nothing-more-beautiful</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/nothing-more-beautiful"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/nothing-more-beautiful</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/nothing-more-beautiful"/>
         <updated>2017-08-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The sands, sky, nor sea,]]></summary>
         <content type="html"><![CDATA[<br>
@@ -170,15 +191,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Nothing More Beautiful</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go and Find Yourself]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/find-yourself</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/find-yourself"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/find-yourself</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/find-yourself"/>
         <updated>2017-08-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Go and find yourself.]]></summary>
         <content type="html"><![CDATA[<br>
@@ -191,15 +212,15 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: Go and Find Yourself</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[By the End of the Day]]></title>
-        <id>https://ekupaskibas18.github.io/blogs/haikus/by-the-end-of-the-day</id>
-        <link href="https://ekupaskibas18.github.io/blogs/haikus/by-the-end-of-the-day"/>
+        <id>https://randellyaptuazon.github.io/blogs/haikus/by-the-end-of-the-day</id>
+        <link href="https://randellyaptuazon.github.io/blogs/haikus/by-the-end-of-the-day"/>
         <updated>2017-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We'll fight, we'll argue.]]></summary>
         <content type="html"><![CDATA[<br>
@@ -212,7 +233,7 @@ My sweetest escape.</p>
 </p><div class="text-xs mt-2 text-stone-500"><em>A Haiku: By the End of the Day</em></div><p></p></footer>]]></content>
         <author>
             <name>Randell Tuazon</name>
-            <uri>https://www.instagram.com/randelltuazon.poetry</uri>
+            <uri>https://www.instagram.com/randelltuazon</uri>
         </author>
         <category label="poetry" term="poetry"/>
         <category label="haiku" term="haiku"/>
