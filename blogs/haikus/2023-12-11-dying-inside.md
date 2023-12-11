@@ -13,6 +13,6 @@ So happy, so full of life.
 ***I'm dying inside.***  
 
 <footer>
-  — Randell Tuazon 
+  Randell Tuazon 
   <div class="text-xs mt-2 text-stone-500">*Haiku: Dying Inside*</div>
 </footer>
