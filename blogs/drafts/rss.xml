@@ -4,10 +4,38 @@
         <title>Randell Tuazon Blog</title>
         <link>https://randellyaptuazon.github.io/blogs/drafts</link>
         <description>Randell Tuazon Blog</description>
-        <lastBuildDate>Thu, 16 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <link>https://randellyaptuazon.github.io/blogs/drafts/never-make-the-same-mistakes-twice</link>
+            <guid>https://randellyaptuazon.github.io/blogs/drafts/never-make-the-same-mistakes-twice</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[advice to dev teams that are also true in life:]]></description>
+            <content:encoded><![CDATA[<header><div class="text-sm mt-16 mb-10 text-green-700 font-fragment-mono">&gt; advice to dev teams that are also true in life:</div></header>
+<p>Don't be afraid to make mistakes, <br>
+and understand when people make them, too. <br>
+The caveat is to <em><strong>never make the same mistakes twice.</strong></em> <br></p>
+<br>
+<br>]]></content:encoded>
+            <category>quotes</category>
+        </item>
+        <item>
+            <link>https://randellyaptuazon.github.io/blogs/drafts/settle-for-good-enough</link>
+            <guid>https://randellyaptuazon.github.io/blogs/drafts/settle-for-good-enough</guid>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[advice to dev teams that are also true in life:]]></description>
+            <content:encoded><![CDATA[<header><div class="text-sm mt-16 mb-10 text-green-700 font-fragment-mono">&gt; advice to dev teams that are also true in life:</div></header>
+<p>Don't chase perfection. <br>
+Rather, settle for good enough. <br>
+Be comfortable by finding contentment, <br>
+then improve in increments. <br>
+Eventually, it'll come close to perfection. <br></p>
+<br>
+<br>]]></content:encoded>
+            <category>quotes</category>
+        </item>
         <item>
             <link>https://randellyaptuazon.github.io/blogs/drafts/what-the-hell</link>
             <guid>https://randellyaptuazon.github.io/blogs/drafts/what-the-hell</guid>
@@ -226,30 +254,6 @@ Come again, and don't ever wake me up. <br></p>]]></content:encoded>
 You're my every morning's falling star.
 So here I am, on my favorite spot... waiting.
 To the fear of missing you out.</p>]]></content:encoded>
-            <category>draft</category>
-            <category>sonnet</category>
-        </item>
-        <item>
-            <link>https://randellyaptuazon.github.io/blogs/drafts/why</link>
-            <guid>https://randellyaptuazon.github.io/blogs/drafts/why</guid>
-            <pubDate>Fri, 26 Sep 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[Why do I admire you? But why even bother asking?]]></description>
-            <content:encoded><![CDATA[<p>Why do I admire you? But why even bother asking? <br>
-It's a long list of countless reasons I have already lost track of. <br>
-Maybe it is your grace, my perfect preference of a lady. <br>
-Or maybe it is your beauty, such is my eye candy. <br>
-I can give you thousand reasons more, <br>
-and while all of them would be true, the fact is, I am fond of you. <br>
-And I don't even really know why. <br></p>]]></content:encoded>
-            <category>draft</category>
-        </item>
-        <item>
-            <link>https://randellyaptuazon.github.io/blogs/drafts/not-yet</link>
-            <guid>https://randellyaptuazon.github.io/blogs/drafts/not-yet</guid>
-            <pubDate>Wed, 11 Jun 2014 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lying alone, counting stars, I swear I could've counted them all.]]></description>
-            <content:encoded><![CDATA[<p>Lying alone, counting stars, I swear I could've counted them all. <br>
-But years of loving you, I am not yet done. <br></p>]]></content:encoded>
             <category>draft</category>
             <category>sonnet</category>
         </item>

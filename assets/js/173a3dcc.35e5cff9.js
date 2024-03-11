@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrandellyaptuazon=self.webpackChunkrandellyaptuazon||[]).push([[4610],{1516:a=>{a.exports=JSON.parse('{"label":"quotes","permalink":"/blogs/drafts/tags/quotes","allTagsPath":"/blogs/drafts/tags","count":2,"unlisted":false}')}}]);
