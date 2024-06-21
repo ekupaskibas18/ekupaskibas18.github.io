@@ -8,10 +8,10 @@ tags: [quotes]
 
 <br/><br/><br/>
 
-She's breaking my heart, every single day without halt,  
-and what's pathetic is that it's not even her fault.  
+She breaks my heart, every single day without halt,
+and as pathetic as it may sound, it's not even her fault.
 
 <footer>
-  — Randell Tuazon 
+  — Randell Tuazon
   <div class="text-xs mt-2 text-stone-500">*100 Love Sonnets: Not Even Her Fault (draft)*</div>
 </footer>
